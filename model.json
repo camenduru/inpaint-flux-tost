@@ -1,0 +1,13 @@
+{
+    "input_image_check": "https://files.catbox.moe/7n5qmt.png",
+    "input_mask": "https://files.catbox.moe/78f9vm.png",
+    "positive_prompt": "hat",
+    "negative_prompt": "bad, ugly, deformed",
+    "controlnet_strength": 1.0,
+    "seed": 0,
+    "steps": 25,
+    "guidance": 3.5,
+    "sampler_name": "euler",
+    "scheduler": "simple",
+    "cfg": 1.0
+}
